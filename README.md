@@ -1,6 +1,6 @@
 # phone_login_firebase
 
-A new Flutter project.
+A new Flutter project where we will login with the mobile number and will authenticate it.
 
 ## Getting Started
 
